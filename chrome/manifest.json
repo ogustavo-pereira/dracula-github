@@ -5,7 +5,7 @@
     "description": "Custom Dracula Theme for Github.",
     "content_scripts": [ {
       "css": ["dracula.css"],
-      "matches": [ "http://github.com/*/*", "https://github.com/*/*" ],
+      "matches": [ "https://github.com/*","http://github.com/*" ],
       "run_at": "document_start"
     }],
     "permissions": [
