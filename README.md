@@ -3,6 +3,7 @@
 > A dark theme for [GitHub](https://github.com/).
 
 ![Screenshot](./screenshot.png)
+![Screenshot](./screenshot-2.png)
 
 ## Install
 
