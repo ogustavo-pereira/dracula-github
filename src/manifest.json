@@ -1,7 +1,7 @@
 
 {
     "name": "Github Dracula Theme",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Custom Dracula Theme for Github.",
     "content_scripts": [ {
       "css": ["dracula.css"],
@@ -15,5 +15,5 @@
       "48" : "icon-48.png",
       "128" : "icon-128.png"
     },
-    "manifest_version": 3
+    "manifest_version": 2
   }
